@@ -13,6 +13,6 @@ public class BlockScope {
             }
             System.out.println("X outside the if block :" + outerX);
             //System.out.println("Y outside the if block :" +innerY); // compile time error
-
+            //System.out.println("Y outside the if block :" +innerY);
         }
 }
