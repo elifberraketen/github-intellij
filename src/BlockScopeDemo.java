@@ -1,6 +1,5 @@
 public class BlockScopeDemo {
 
-
     static void main(String[] args) {
 
         int outerX = 5 ;
