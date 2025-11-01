@@ -1,3 +1,5 @@
+package Dsaclass;
+
 public class VariableTest {
 
     int instanceVariable = 10 ;

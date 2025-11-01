@@ -1,3 +1,5 @@
+package Dsaclass;
+
 public class Songs {
     public String title;
     public Songs next;

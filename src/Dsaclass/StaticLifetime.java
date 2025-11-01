@@ -1,3 +1,5 @@
+package Dsaclass;
+
 public class StaticLifetime {
 
     static int varCounter = 0 ;
