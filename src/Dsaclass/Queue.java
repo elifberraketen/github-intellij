@@ -21,7 +21,8 @@ public class Queue {
         }
 
     public int dequeue(){
-       if(front == null ) return -1;
+       if(front == null )
+           return -1;
        int value =front.value;
        front =front.next ;
         return value;
